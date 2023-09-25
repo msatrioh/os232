@@ -13,3 +13,8 @@ ZCZC W02 25 L03 GitHub related
 ZCZC W02 200 L02 CLASSROOM meetings related
 ZCZC W02 10 L03 SCELE related
 ZCZC W02 90 L09 Assignment in General
+
+ZCZC W02 90 L03 GitHub related (had an issue)
+ZCZC W02 200 L02 CLASSROOM meetings related
+ZCZC W02 10 L03 SCELE related
+ZCZC W02 45 L09 Assignment in General
