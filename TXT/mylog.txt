@@ -23,3 +23,7 @@ ZCZC W04 10 L03 GitHub related
 ZCZC W04 200 L02 CLASSROOM meetings related
 ZCZC W04 10 L03 SCELE related
 ZCZC W04 60 L09 Assignment in General
+
+ZCZC W10 10 L03 GitHub related
+ZCZC W10 10 L03 SCELE related
+ZCZC W10 30 L09 Assignment in General
